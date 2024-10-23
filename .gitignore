@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+*.db
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+pip-wheel-metadata/
+
+# Alembic
+alembic/versions/*.pyc
+
+# OS Files
+.DS_Store
